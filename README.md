@@ -17,8 +17,7 @@ We will be looking for
 Things that you can do to WOW us,
 
 1. Stylistic flair
-2. Make the table dynamic, CRUD operations on the data
-3. Use typescript or es6 and a module loader
-4. Add Unit testing
+2. Use typescript or es6 and a module loader
+3. Add Unit testing
 
 When completed, submit your code to GitHub and send us a link to your solution!
